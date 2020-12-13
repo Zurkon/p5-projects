@@ -3,6 +3,8 @@
 # P5.js Projects
 This repository contains projects made with the p5.js library. Feel free to modify and create new projects.
 
+You can also test each project from here: https://zurkon.github.io/p5-projects/
+
 # Projects
 
 ## Snake Game
